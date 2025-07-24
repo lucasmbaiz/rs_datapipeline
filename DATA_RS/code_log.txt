@@ -1,0 +1,12 @@
+2025-07-24 01:05:27 : Bibliotecas requeridas importadas. 
+2025-07-24 01:06:12 : Bibliotecas requeridas importadas. 
+2025-07-24 01:07:00 : Bibliotecas requeridas importadas. 
+2025-07-24 01:07:00 : Datos aleatorios de redes sociales generados 
+2025-07-24 01:07:00 : Datos cargados en DataFrame y explorados. 
+2025-07-24 01:07:00 : Datos limpiados y verificados. 
+2025-07-24 01:08:42 : Datos visualizados (histograma Boxplot) y estadisticas descriptivas calculadas. 
+2025-07-24 01:31:13 : Bibliotecas requeridas importadas. 
+2025-07-24 01:31:13 : Datos aleatorios de redes sociales generados 
+2025-07-24 01:31:14 : Datos cargados en DataFrame y explorados. 
+2025-07-24 01:31:14 : Datos limpiados y verificados. 
+2025-07-24 01:31:25 : Datos visualizados (histograma Boxplot) y estadisticas descriptivas calculadas. 
